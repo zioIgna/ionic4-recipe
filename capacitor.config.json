@@ -1,0 +1,6 @@
+{
+  "appId": "com.ignApp.ionAngRecipe",
+  "appName": "angular-ion",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

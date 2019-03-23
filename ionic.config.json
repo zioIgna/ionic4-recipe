@@ -1,5 +1,7 @@
 {
   "name": "angular-ion",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
